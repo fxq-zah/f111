@@ -67,7 +67,7 @@ import Button from 'fli-ui'
 
 通过如下步骤可以直接运行项目：
 
-    1.git clone git@github.com:yinlong22/flight-UI.git
+    1.git clone git@github.com:fxq-zah/f-UI.git
     2.npm install
     3.npm run start
 运行入口为src/app.js文件，该文件中是各个组件的使用代码，可以在此引用全部组件，自由修改测试
