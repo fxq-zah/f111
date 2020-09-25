@@ -1,5 +1,5 @@
 # f-ui 一个简易的 Vue UI 组件
-[![Build Status](https://travis-ci.org/yinlong22/flight-UI.svg?branch=master)](https://travis-ci.org/yinlong22/flight-UI)
+[![Build Status](https://travis-ci.org/yinlong22/flight-UI.svg?branch=master)](https://travis-ci.org/fxq-zah/f-UI)
 ## 介绍
 一套基于Vue开发的组件库，无依赖、体积小、简单易用
 
